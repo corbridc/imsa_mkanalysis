@@ -1,7 +1,7 @@
 # imsa_mkanalysis
 This is a tool to help small medium businesses select global export markets. 
 
-It will be free to use, and available through the International Hub website. Link coming soon. 
+It will be free to use, and available through the International Hub website, http://marketpntl.internationalhub.org/
 
 ### Data
 The data for this analysis is from the following sources:
